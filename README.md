@@ -21,8 +21,8 @@ Outside of coding, I enjoy learning about new technologies, participating in tec
 | Achievement | Link/Badge | Description |
 |:-----------|:-----------|:-----------|
 | 💻 **Contributor to Thales GitHub** | [CSM-SSO-Plugin](https://github.com/ThalesGroup/csm-sso-plugin) | Contributed to the development of the Thales CSM-SSO-Plugin, enhancing Single Sign-On (SSO) integrations. |
-| 🛠️ **Contribution Badge for Serverpod** | <a href="https://community.vaunt.dev/board/arpitgupta-it/achievements"><img src="https://api.vaunt.dev/v1/github/entities/arpitgupta-it/achievements/8d50131a-5390-4930-bf76-358636f52f0b?format=svg&style=raw" width="200"/></a> | Recognized for contributions to the Serverpod project, a backend framework for building scalable and secure apps. |
-| 🐍 **Contributor to PyTest Dev** | [PyTest Community](https://github.com/pytest-dev/pytest) | Contributed to the PyTest community, helping improve testing frameworks for Python developers. |
+| 🛠️ **Contribution Badge for Serverpod** | <a href="https://community.vaunt.dev/board/arpitgupta-it/achievements"><img src="https://api.vaunt.dev/v1/github/entities/arpitgupta-it/achievements/8d50131a-5390-4930-bf76-358636f52f0b?format=svg&style=raw" width="200"/></a>[Serverpod Community](https://github.com/serverpod/serverpod/pull/2944/files) | Recognized for contributions to the Serverpod project, a backend framework for building scalable and secure apps. |
+| 🐍 **Contributor to PyTest Dev** | [PyTest Community](https://github.com/pytest-dev/pytest/pull/12968/files) | Contributed to the PyTest community, helping improve testing frameworks for Python developers. |
 
 
 #
