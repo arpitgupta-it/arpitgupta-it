@@ -24,6 +24,7 @@ Outside of coding, I enjoy learning about new technologies, participating in tec
 | 🛠️ **Contribution Badge for Serverpod** | <a href="https://community.vaunt.dev/board/arpitgupta-it/achievements"><img src="https://api.vaunt.dev/v1/github/entities/arpitgupta-it/achievements/8d50131a-5390-4930-bf76-358636f52f0b?format=svg&style=raw" width="200"/></a>[Serverpod Community](https://github.com/serverpod/serverpod/pull/2944/files) | Recognized for contributions to the Serverpod project, a backend framework for building scalable and secure apps. |
 | 🐍 **Contributor to PyTest Dev** | [PyTest Community](https://github.com/pytest-dev/pytest/pull/12968/files) | Contributed to the PyTest community, helping improve testing frameworks for Python developers. |
 | 🚀 **Contributor to Burr** | [Burr Community](https://github.com/DAGWorks-Inc/burr/pull/418/files) | Contributed to the Burr community by improving its testing frameworks, optimizing workflows for data orchestration, and enhancing overall system reliability. |
+| 🔐 **Creator of CipherScan** | [CipherScan GitHub](https://github.com/arpitgupta-it/cipherscan) | Created CipherScan, a VS Code extension that scans for exposed secrets in the current workspace and generates detailed reports to enhance security. |
 
 
 #
