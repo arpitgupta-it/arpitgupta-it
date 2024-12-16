@@ -25,7 +25,7 @@ Outside of coding, I enjoy learning about new technologies, participating in tec
 | 🐍 **Contributor to PyTest Dev** | [PyTest Community](https://github.com/pytest-dev/pytest/pull/12968/files) | Contributed to the PyTest community, helping improve testing frameworks for Python developers. |
 | 🚀 **Contributor to Burr** | [Burr Community](https://github.com/DAGWorks-Inc/burr/pull/418/files) | Contributed to the Burr community by improving its testing frameworks, optimizing workflows for data orchestration, and enhancing overall system reliability. |
 | 🔐 **Creator of CipherScan** | [CipherScan GitHub](https://github.com/arpitgupta-it/cipherscan) | Created CipherScan, a VS Code extension that scans for exposed secrets in the current workspace and generates detailed reports to enhance security. |
-| ⚙️ **Contributor to Kestra** | [Kestra Community](https://github.com/kestra-io/kestra/pull/6463/files) | Contributed to Kestra.io by implementing fixes for critical translation issues, improving user interface components |
+| ⚙️ **Contributor to Kestra** | [Kestra Community PR1](https://github.com/kestra-io/kestra/pull/6463/files) / [Kestra Community PR2](https://github.com/kestra-io/kestra/pull/6466/files) | Contributed to Kestra.io by implementing fixes for critical translation issues, improving user interface components |
 
 
 #
