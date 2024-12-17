@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with experience
 
 Thanks for visiting my profile! 
 
-#
+---
 
 ### 💡 About Me
 
@@ -14,7 +14,7 @@ I thrive on **solving complex problems** and finding **elegant, scalable solutio
 
 Outside of coding, I enjoy learning about new technologies, participating in tech communities, and mentoring others. I'm always eager to learn new things, whether it's a new programming language, clicking weird pictures, or exploring a development methodology.
 
-#
+---
 
 ### 🏅 Contributions to Open Source Projects
 
@@ -27,8 +27,15 @@ Outside of coding, I enjoy learning about new technologies, participating in tec
 | 🔐 **Creator of CipherScan** | [CipherScan VSCode](https://github.com/cipherscan/cipherscan-vscode) | Created CipherScan, a VS Code extension that scans for exposed secrets in the current workspace and generates detailed reports to enhance security. |
 | ⚙️ **Contributor to Kestra** | [Kestra Community PR1](https://github.com/kestra-io/kestra/pull/6463/files) / [Kestra Community PR2](https://github.com/kestra-io/kestra/pull/6466/files) | Contributed to Kestra.io by implementing fixes for critical translation issues, improving user interface components |
 
+---
 
-#
+### 💖 Support My Open-Source Work
+
+I actively contribute to open-source projects, and your support helps me continue improving the software ecosystem. If you’d like to support my work, consider sponsoring me on GitHub:
+
+[![Sponsor Me on GitHub](https://img.shields.io/badge/Sponsor-Join%20Now-green)](https://github.com/sponsors/arpitgupta-it)
+
+---
 
 ### 📬 Contact Me
 
